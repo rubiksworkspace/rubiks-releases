@@ -13,7 +13,7 @@ curl -fsSL https://github.com/rubiksworkspace/rubiks-releases/releases/latest/do
 ```
 
 Each [release](https://github.com/rubiksworkspace/rubiks-releases/releases) also has a
-DMG for a double-click install. Once installed, `rubiks update` moves to the newest
+DMG for a double-click install. Once installed, `prime-agent update` moves to the newest
 release, and the Rubiks IDE keeps it up to date on its own.
 
 ## Reporting problems
